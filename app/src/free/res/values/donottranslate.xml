@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shuttle</string>
+    <string
+        name="base64EncodedPublicKey">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMII
+        BCgKCAQEAwttl8JuSAiBOqu830SuzlOKJCzVoY9D9/A5ruazvGuR/dXiIW2H1NOnejzW
+        hCEm+QizheRLincy5Ijd0m18SdUjEfvvPCsosjyFjotvG+aD3w1VCeMvC8QRSir/SNqSwH
+        CJtClPY+GOuVvO2URD9Bt/FhrdbefJjEQFUC6lGIFg/jcSntVZCLIWP2ufETazJn/6
+        xCjdgH5h86MDZHZl4WjnKd0EWOMEYKfXjgu3JpeAl3EE3dOPrMu6TSX+u/e1uyKe8Mz7D
+        sXV/DVT6q6VES8+DbzGGAJe9RHvVReX9M72svQFn0NkGNp+tLKVcluGsdpP7WE0A81OgfHll+Af8gQIDAQAB</string>
+</resources>
